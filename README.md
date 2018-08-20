@@ -6,9 +6,9 @@
 * 利用补丁破解webStorm
 * 少说有四五十个webstorm注册码了吧
 
-##### 下面就来说下利用补丁破解webStorm，虽然麻烦的一点点，不过也挺稳定，暂时还能出现过问题。
-##### 第一步:将补丁复制到安装目录的bin目录下
-##### 第二步：修改同目录下WebStorm.exe.vmoptions 和WebStorm64.exe.vmoptions
+#### 下面就来说下利用补丁破解webStorm，虽然麻烦的一点点，不过也挺稳定，暂时还能出现过问题。
+#### 第一步:将补丁复制到安装目录的bin目录下
+#### 第二步：修改同目录下WebStorm.exe.vmoptions 和WebStorm64.exe.vmoptions
 ![image.png](https://upload-images.jianshu.io/upload_images/6206911-b1d48408a635eb9b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 可以使用编辑器，记事本等的工具打开文件，然后添加这行代码
@@ -21,11 +21,14 @@
 ![image.png](https://upload-images.jianshu.io/upload_images/6206911-29cbef5fd6d2d733.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 ##### 第三步：修改后，保存文件。在此再次启动WebStorm，选择activation code，随便输入文字，数字就行
 <hr>
-## 汉化
+
+#### 汉化
 #### 将resources_cn.jar文件复制到安装目录的lib目录下
+
 ![image.png](https://upload-images.jianshu.io/upload_images/6206911-2bf7cc36dfdffba2.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 #### 重新打开软件， OK
 <hr>
+
 #### 引入我的配置文件settings.jar
 ![image.png](https://upload-images.jianshu.io/upload_images/6206911-c20e04d7550fecb4.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
