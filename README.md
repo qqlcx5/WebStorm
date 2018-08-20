@@ -1,4 +1,5 @@
-# 软件可以拿走，点个星星，不然不许走
+# 看我写的怎么辛苦，点个星星或者打赏下呗
+![clipboard image](https://user-images.githubusercontent.com/31888710/43787183-0402c67a-9a9d-11e8-8d44-1e8a02899d39.jpg)
 
 ## 文件下载解压即可使用，无需安装
 
