@@ -4,8 +4,6 @@
 ### 最大好处
 下载解压即可使用，省去安装，安装插件和主题，不会弹出广告，购买页面等等，是不是**超级好** **超级好**
 
-[GitHub软件地址](https://github.com/qqlcx5/editor/tree/sublime)：
-https://github.com/qqlcx5/editor/tree/sublime
 ### 界面
 ![image.png](https://upload-images.jianshu.io/upload_images/6206911-7f1a0bc925f063d2.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
