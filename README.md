@@ -1,74 +1,52 @@
-# VScode插件推荐
-### 经历
+# Sublime2018.08绿化汉化破解版
+### 使用说明
 
-Sublime和webstorm 盗版序列号经过一番血洗后，频频失效，期间浪费了很多时间破解，虽然经过一番尝试后。虽然成功破解但心也无心在折腾了。转向VScode开发
+下载解压即可使用，省去安装，插件和主题，而且不会弹出广告，购买页面等等，是不是**超级好用** **超级好用**
 
-### 有需要用户可以查看：[VScode懒人一键安装插件教程](https://github.com/qqlcx5/blog/blob/master/%E7%BC%96%E8%BE%91%E5%99%A8/VScode%E6%87%92%E4%BA%BA%E4%B8%80%E9%94%AE%E5%AE%89%E8%A3%85%E6%8F%92%E4%BB%B6%E6%95%99%E7%A8%8B.md)
+### 界面
+![image.png](https://upload-images.jianshu.io/upload_images/6206911-7f1a0bc925f063d2.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+### 自带插件
 
-### VScode常用插件推荐
+Alignment： 自动对齐代码
 
-HTML Snippets 超级实用且初级的 H5代码片段以及提示
+SublimeLinter 提示编写代码中存在的不规范和错误的写法
 
+Sublime CodeIntel代码提示和补全
 
-Color-Highlight在编辑器中高亮显示颜色。
+Bracket Highlighter代码匹配
 
-Guides代码的标签对齐线。
+SideBarEnhancements 侧栏右键功能增强
 
-HTML CSS supportcss 自动补齐
+ConvertToUTF8，GBK编码兼容
 
-Npm Intellisense在import语句中自动完成npm模块引入的代码插件
+Emmet让编写代码变得简单
 
-Debugger for Chrome让 vscode 映射 chrome 的 debug功能，静态页面都可以用 vscode 来打断点调试
+HTML-CSS-JS Prettify HTML/CSS/JS/Vue等代码格式化
 
-[background](https://marketplace.visualstudio.com/items?itemName=shalldie.background)设置背景
+AutoFileName提示文件路径，快速输入文件名
 
-[beautify](https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify)在Visual Studio代码中美化JavaScript，JSON，CSS，Sass和HTML。
+GitGutter提示代码中插入、修改、删除的地方
 
-[Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag) 自动闭合HTML标签
+PackageResourceViewer，插件修改必备
 
-[Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag) 修改HTML标签时，自动修改匹配的标签
+PackageResourceViewer，插件修改必备
 
-Bracket Pair Colorizer 让括号拥有独立的颜色，易于区分
+### 软件特色
 
-Open-In-Browser	由于 VSCode 没有提供直接在浏览器中打开文件的内置界面，所以此插件可以打开命令面板选项。
+ - by roustar31、zd423 - 基于 Sublime Text 3 官方版进行修改汉化；
+ - 破解并集成正版密钥已注册版，去自动检测升级提示；
+ - 整合GBK插件支持简体中文整合多款主题及细节优化；
+ - 参考清风流音的汉化，清除个人信息
+ - 可自选添加/删除右键菜单项；
+ - 基于官方版进行全网最完美汉化，基本上没什么英文了。
+ - 已默认注册软件无需购买，有钱的程序员可以支持正版。
+ - 去除程序自动检测升级，即无更新选项也没有升级提示。
+ - 调整字体大小自动换行等细节，以符合大众的使用习惯。 
+ - 修正中文输入法鼠标跟随问题，深度整合GBK编码插件。 
+ - 修改多处菜单选项和配置文件，使其更加实用更人性化。
 
-Live Server 类似代码运行服务器上的功能
-
-[Indenticator](https://marketplace.visualstudio.com/items?itemName=SirTori.indenticator)缩进高亮
-
-[IntelliSense for CSS class names](https://marketplace.visualstudio.com/items?itemName=Zignd.html-css-class-completion)CSS类名智能命名提示
-
-[JavaScript (ES6) code snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets)ES6语法提示
-
-[Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)编辑器中输入路径时,自动补全
-
-Git History	查看和搜索git日志以及图表和细节。查看文件的前一个副本。查看和搜索历史
-
-[CSS Peek](https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek) 能在源代码中的字符串中找到对应的css，显示在那个css文件里，还有在第几行。
-
-[Easy WXLESS](https://marketplace.visualstudio.com/items?itemName=yunfeizuo.easy-wxless)微信小程序WXSS文件专用，保存可自动生成并同步编译成同名css文件
-
-[px2rem](https://marketplace.visualstudio.com/items?itemName=arturiapendragon.px2rem) px、rem单位互相转换
-
-### 常用Vue插件推荐
-
-vetur语法高亮、智能感知、Emmet
-
-提示：vue文件代码格式化，需要在首选项-设置-用户设置添加这行代码
-```              
-"vetur.format.defaultFormatter.html": "js-beautify-html", //vue中HTML部分格式化
-```
-[Vue 2 Snippets](https://marketplace.visualstudio.com/items?itemName=hollowtree.vue-snippets)	最新的 Vue 官方语法高亮文件添加了语法高亮
-
-vscode-element-helper		Element-UI库代码片段
-### 主题推荐：浅色调
-
-[Brackets Light Pro](https://link.zhihu.com/?target=https%3A//marketplace.visualstudio.com/items%3FitemName%3Deryouhao.brackets-light-pro)
-![Brackets Light Pro.png](http://upload-images.jianshu.io/upload_images/6206911-1e21fd5f03f4f522.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
-Quiet Light
-
-![image.png](https://upload-images.jianshu.io/upload_images/6206911-42b466dcda73cede.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+[软件下载地址](https://gitee.com/qqlcx5/sublime)
 
 ### [个人博客 求星星](https://github.com/qqlcx5/blog)
 ![求打赏](https://i.loli.net/2019/03/08/5c82816bb3178.jpg)
+
