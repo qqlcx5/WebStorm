@@ -3,7 +3,7 @@
 
 Sublime和webstorm 盗版序列号经过一番血洗后，频频失效，期间浪费了很多时间破解，虽然经过一番尝试后。虽然成功破解但心也无心在折腾了。转向VScode开发
 
-### 有需要用户可以查看：[VScode懒人一键安装插件教程](https://github.com/qqlcx5/blog/blob/master/%E7%BC%96%E8%BE%91%E5%99%A8/VScode%E6%8F%92%E4%BB%B6%E4%B8%80%E9%94%AE%E5%AE%89%E8%A3%85.md)
+### 有需要用户可以查看：[VScode懒人一键安装插件教程](https://github.com/qqlcx5/blog/blob/master/%E7%BC%96%E8%BE%91%E5%99%A8/VScode%E6%87%92%E4%BA%BA%E4%B8%80%E9%94%AE%E5%AE%89%E8%A3%85%E6%8F%92%E4%BB%B6%E6%95%99%E7%A8%8B.md)
 
 ### VScode常用插件推荐
 
