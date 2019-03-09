@@ -2,5 +2,5 @@
 set -e
 git add -A
 git commit -m 'deploy'
-git push git@github.com:qqlcx5/blog.git vscode
+git push git@github.com:qqlcx5/editor.git vscode
 cd -
