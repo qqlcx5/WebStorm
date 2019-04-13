@@ -22,7 +22,7 @@
 
 ### 第二步
 
-打开`bin`里面的 `webstorm64.exe.vmoptions` 和 `webstorm.exe.vmoptions` 文件
+打开`bin`里面的 `webstorm64.exe.vmoptions` 和 `webstorm.exe.vmoptions` 文件，添加以下代码
 ```
 -javaagent: 路径、破解补丁名称（注意注意注意：安装的路径不同，软件开不了）
 
