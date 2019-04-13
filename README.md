@@ -17,16 +17,20 @@
 
 ### 第一步
 
-打开软件安装目录，复制`bin`和`lib`文件夹进行替换，
+打开软件安装目录，复制`bin`和`lib`文件夹进行替换
 
 ### 第二步
 
 打开`bin`里面的 `webstorm64.exe.vmoptions`和`webstorm.exe.vmoptions`文件
 ```
 -javaagent: 路径、破解补丁名称（注意注意注意：安装的路径不同，软件开不了）
+
 拿我安装目录路径来说
+
 -javaagent:D:\Program Files\JetBrains\WebStorm\bin\JetbrainsIdesCrack-4.2-release.jar
+
 如果我想安装在D:\sofeware目录下
+
 -javaagent:D:\sofeware\JetBrains\WebStorm\bin\JetbrainsIdesCrack-4.2-release.jar
 ```
 ### 第三步 
